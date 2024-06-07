@@ -1,0 +1,8 @@
+test
+.vscode
+src/**/*.pdf
+src/**/__pycache__
+DB
+src/sol_3
+test.py
+src/sol_3_gurobi_sep
